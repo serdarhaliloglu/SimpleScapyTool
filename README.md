@@ -1,5 +1,7 @@
 # SimpleScapyTool
 
+- We made a tool in our CE340 - Network Security Course.
+
 ## Definition:
 
 - In this project, we write a set of Scapy functions which are stored in a Phyton script.
