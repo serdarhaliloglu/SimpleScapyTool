@@ -4,8 +4,8 @@
 
 ## Definition:
 
-- In this project, we write a set of Scapy functions which are stored in a Phyton script.
-- We design a Graphical User Interface(GUI) for the sake of user.GUI has 5 buttons and a label which displays results.
+- In this project, we wrote a set of Scapy functions which are stored in a Python script.
+- We designed a Graphical User Interface(GUI) for the sake of user. GUI has 5 buttons and a label which displays results.
 
 ## Outcomes:
 
