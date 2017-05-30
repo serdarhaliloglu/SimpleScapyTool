@@ -1,6 +1,9 @@
 # SimpleScapyTool
 
 - We made a tool in our CE340 - Network Security Course.
+### Team Members:
+  - Serdar HALİLOĞLU
+  - Yaşar Anıl SANSAK
 
 ## Definition:
 
